@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a ripped of version off [Snowplow's sample scalding project] [scalding-example-project], many thanks to them for it!
+This is a ripped off version of [Snowplow's sample scalding project] [scalding-example-project], many thanks to them for it!
 
 ## Unit testing
 
