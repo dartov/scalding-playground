@@ -22,7 +22,7 @@ First, you need to package fat jar:
 
 Run somewhere with `hadoop jar` available:
 
-    hadoop jar target/scala-2.10/scalding-example-project-assembly-0.0.1.jar net.aystech.scalding.WordCountJob --hdfs --input some/input/file --output some/output/file
+    hadoop jar target/scala-2.10/scalding-playground-assembly-0.0.1.jar net.aystech.scalding.WordCountJob --hdfs --input some/input/file --output some/output/file
 
 
 ## To Do

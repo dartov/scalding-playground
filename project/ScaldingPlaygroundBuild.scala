@@ -10,7 +10,7 @@ object ScaldingPlaygroundBuild extends Build {
     shellPrompt := { s => Project.extract(s).currentProject.id + " > " }
   }
 
-  lazy val project = Project("scalding-example-project", file("."))
+  lazy val project = Project("scalding-playground", file("."))
     .settings(buildSettings: _*)
     .settings(
       libraryDependencies ++= Seq(
