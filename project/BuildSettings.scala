@@ -8,7 +8,7 @@ object BuildSettings {
     organization  := "AYSTech Consulting",
     version       := "0.0.1",
     description   := "Sample playground project to try different scalding stuff",
-    scalaVersion  := "2.10.3",
+    scalaVersion  := "2.10.4",
     scalacOptions := Seq("-deprecation", "-encoding", "utf8"),
     resolvers     ++= Dependencies.resolutionRepos
   )

@@ -10,7 +10,7 @@ object Dependencies {
   )
 
   object V {
-    val scalding  = "0.10.0"
+    val scalding  = "0.11.2"
     val hadoop    = "1.2.1" // Currently scalding doesn't support Hadoop2, this is current known safe version
     val specs2    = "2.3.11"
   }
